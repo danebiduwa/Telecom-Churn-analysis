@@ -8,7 +8,7 @@ The objective of this project is to help decision-makers identify factors contri
 
 ## Dashboard Preview
 
-![Telecom churn analysis.pbix](Screenshot 2026-07-05 181154_edited.png)
+![Telecom churn analysis.pbix](Churn analysis.png)
 
 Tools Used
 Microsoft Excel
