@@ -6,6 +6,10 @@ The interactive dashboard provides key insights into customer behavior by tracki
 
 The objective of this project is to help decision-makers identify factors contributing to customer churn and support data-driven strategies for improving customer retention and revenue performance.
 
+## Dashboard Preview
+
+![Dashboard](images/Screenshot 2026-07-05 181154_edited.png)
+
 Tools Used
 Microsoft Excel
 Microsoft Power BI
